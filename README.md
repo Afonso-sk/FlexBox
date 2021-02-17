@@ -1,6 +1,6 @@
 # Flexbox
 
-###Módulo de layout CSS Flexbox
+<h1>Módulo de layout CSS Flexbox</h1>
 
 Antes do módulo Flexbox Layout, havia quatro modos de layout:
 
